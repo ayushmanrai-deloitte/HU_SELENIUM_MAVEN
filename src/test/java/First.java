@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class First{
     static WebDriver driver;
-    static String username = "", password = "", first_name = "", last_name = "", pin_code = "600600";
+    static String username = "", password = "", first_name = "", last_name = "", pin_code = "222001";
 
     @Test(priority = 1)
     public static void excel_reader() throws IOException {
