@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class First{
-    static WebDriver driver;
+    static WebDriver dri;
     static String username = "", password = "", first_name = "", last_name = "", pin_code = "222001";
 
     @Test(priority = 1)
